@@ -1,3 +1,2 @@
 # NEIS0736
-# NEIS0736
-## jaruspong
+## jaruspong 6217810004
